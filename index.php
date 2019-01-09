@@ -1,15 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <title>My Framework</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-  <link rel="stylesheet" href="css/index.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-</head>
-<body>
+<?php include_once ('includes/header.php') ?>
   <nav class="nav-L5onzh">
     <div class="pc-wrap relative">
       <div id="exTab1" class="container">
@@ -33,9 +22,10 @@
             </li>
           </ul>
         </div>
+      </div>
       </nav>
 
-    </br></br></br></br>
+    </br></br></br></br></br>
 
             <div class="tab-content clearfix">
               <div class="tab-pane active" id="1a">

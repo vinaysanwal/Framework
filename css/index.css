@@ -28,8 +28,9 @@
     -webkit-flex-wrap: nowrap;
     -ms-flex-wrap: nowrap;
     flex-wrap: nowrap;
-    height: 4.4rem;
+    height: 3rem;
     overflow: auto;
+    overflow-y: hidden;
     padding-right: 3rem
 }
 .cate-1xuqR9.active-2M2GTP {
@@ -134,7 +135,7 @@ body {
         -webkit-flex-wrap: nowrap;
         -ms-flex-wrap: nowrap;
         flex-wrap: nowrap;
-        height: 4.4rem;
+        height: 3rem;
         overflow: auto;
         padding-right: 3rem
     }
